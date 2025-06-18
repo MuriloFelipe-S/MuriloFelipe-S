@@ -13,11 +13,12 @@ Estou focado no aprendizado e na prática para melhorar minhas habilidades e con
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo" />
 
 ## GitHub Stats
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MuriloFelipe-S&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuriloFelipe-S&theme=tokyonight&hide_border=true"/>
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=MuriloFelipe-S&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
+
+<img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=MuriloFelipe-S&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ## Social
