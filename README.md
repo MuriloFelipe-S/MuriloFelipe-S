@@ -6,7 +6,8 @@ Estou focado no aprendizado e na prática para melhorar minhas habilidades e con
 
 ## Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,git,docker,spring,idea,vscode,postman,github" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css,git,spring,angular" />
+<img src="https://skillicons.dev/icons?i=idea,vscode,postman,github,docker" />
 
 ## DataBases
 
