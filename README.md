@@ -36,7 +36,7 @@ em Java, Spring, Angular, Docker e banco de dados SQL e noSQL
 
 ## ⭐ GitHub Stats
 <div align="center">
-<a href="https://github.com/MuriloFelipe-S">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloFelipe-S&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
   
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MuriloFelipe-S&theme=tokyonight&hide_border=true&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"/>
