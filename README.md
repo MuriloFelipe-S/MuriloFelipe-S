@@ -1,29 +1,36 @@
-# 👋 Olá! eu me chamo Murilo
+# 👋 Olá! eu sou o Murilo
+<p align="left">
+Desenvolvedor back-end júnior com focado em adquirir conhecimentos e criar soluções de forma eficiente para problemas 
+</p>
 
-Tenho 19 anos e sou de Londrina, Paraná.
-Sou Desenvolvedor Back-end e atualmente estou cursando Técnico em Desenvolvimento de Sistemas.
-Estou focado no aprendizado e na prática para melhorar minhas habilidades e conhecimentos, buscando a minha primeira vaga na área.  
+## Sobre mim
+Sou de londrina Párana e tenho 20 anos, comecei a estudar programação em 2024 e acabei me apaixonando pela área, desde então venho focando meus estudo
+em Java, Spring, Angular, Docker e banco de dados SQL e noSQL
+ 
+## Tecnologias e linguagens 💻
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
 
-## Languages and Tools
+### 🚀 Frameworks e bibliotecas
+<img src="https://skillicons.dev/icons?i=spring,angular" />
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,git,spring,angular" />
-<img src="https://skillicons.dev/icons?i=idea,vscode,postman,github,docker" />
+### 🛠️ Ferramentas de desenvolvimento
+<img src="https://skillicons.dev/icons?i=idea,vscode,postman,github,docker,git" />
 
-## DataBases
-
+### 🛢️ DataBases
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo" />
 
-## GitHub Stats
+## ⭐ GitHub Stats
 <div align="center">
-
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=MuriloFelipe-S&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
-
-<img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=MuriloFelipe-S&theme=tokyonight&hide_border=true"/>
-
+<a href="https://github.com/MuriloFelipe-S">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloFelipe-S&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MuriloFelipe-S&theme=tokyonight&hide_border=true&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"/>
+  
+  [![Murilo Felipe github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuriloFelipe-S&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
-
+  
 ## Social
-
+ Quer saber mais sobre mim ? entre em contato comigo enviando um e-mail ou me seguindo no linkedin 😊
+ 
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/murilofelipe/)
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:felipemurilo6@gmail.com)
-[![DISCORD](https://skillicons.dev/icons?i=discord)](https://discord.com/users/546051667561545739)
+
