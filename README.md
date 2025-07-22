@@ -39,8 +39,6 @@ em Java, Spring, Angular, Docker e banco de dados SQL e noSQL
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloFelipe-S&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
   
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MuriloFelipe-S&theme=tokyonight&hide_border=true&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"/>
-  
   [![Murilo Felipe github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuriloFelipe-S&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
