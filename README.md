@@ -7,18 +7,6 @@ Desenvolvedor back-end júnior com focado em adquirir conhecimentos e criar solu
 Sou de londrina Párana e tenho 20 anos, comecei a estudar programação em 2024 e acabei me apaixonando pela área, desde então venho focando meus estudo
 em Java, Spring, Angular, Docker e banco de dados SQL e noSQL
 
----
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuriloFelipe-S/MuriloFelipe-S/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuriloFelipe-S/MuriloFelipe-S/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MuriloFelipe-S/MuriloFelipe-S/output/pacman-contribution-graph.svg">
-</picture>
-
-###
----
- 
 ## Tecnologias e linguagens 💻
 <img src="https://skillicons.dev/icons?i=java,js,html,css" />
 
