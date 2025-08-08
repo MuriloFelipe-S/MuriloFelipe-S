@@ -1,10 +1,10 @@
 # 👋 Olá! eu sou o Murilo
 <p align="left">
-Desenvolvedor back-end júnior com focado em adquirir conhecimentos e criar soluções de forma eficiente para problemas 
+Desenvolvedor back-end júnior focado em adquirir conhecimentos e criar soluções para problemas de forma eficiente
 </p>
 
 ## Sobre mim
-Sou de londrina Párana e tenho 20 anos, comecei a estudar programação em 2024 e acabei me apaixonando pela área, desde então venho focando meus estudo
+Sou de londrina Párana e tenho 20 anos, comecei a estudar programação em 2023 e acabei me apaixonando pela área, e em 2024 iniciei um curso técnico de desenvolvimento de sistemas, atualmente tenho focado
 em Java, Spring, Angular, Docker e banco de dados SQL e noSQL
 
 ## Tecnologias e linguagens 💻
