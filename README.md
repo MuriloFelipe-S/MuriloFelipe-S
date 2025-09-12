@@ -11,7 +11,7 @@ em Java, Spring, Angular, Docker e banco de dados SQL e noSQL
 <img src="https://skillicons.dev/icons?i=java,js,html,css" />
 
 ### 🚀 Frameworks e bibliotecas
-<img src="https://skillicons.dev/icons?i=spring,angular" />
+<img src="https://skillicons.dev/icons?i=spring,react" />
 
 ### 🛠️ Ferramentas de desenvolvimento
 <img src="https://skillicons.dev/icons?i=idea,vscode,postman,github,docker,git" />
