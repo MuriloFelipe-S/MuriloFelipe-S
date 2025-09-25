@@ -8,7 +8,7 @@ Sou de londrina Párana e tenho 20 anos, comecei a estudar programação em 2023
 em Java, Spring, Angular, Docker e banco de dados SQL e noSQL
 
 ## Tecnologias e linguagens 💻
-<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css,ts" />
 
 ### 🚀 Frameworks e bibliotecas
 <img src="https://skillicons.dev/icons?i=spring,react" />
