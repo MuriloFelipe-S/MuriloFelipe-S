@@ -18,9 +18,6 @@ em Java, Spring, Docker e banco de dados SQL e noSQL
 
 ### 🛢️ DataBases
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo" />
-
-### Skills 
-<img src="https://skillicons.dev/icons?i=arch,git,mongo" />
   
 ## Social
  Quer saber mais sobre mim ? entre em contato comigo enviando um e-mail ou me seguindo no linkedin 😊
