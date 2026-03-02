@@ -8,7 +8,7 @@ Sou de londrina Párana e tenho 20 anos, comecei a estudar programação em 2023
 em Java, Spring, Docker e banco de dados SQL e noSQL
 
 ## Tecnologias e linguagens 💻
-<img src="https://skillicons.dev/icons?i=java,js,html,css,ts" />
+<img src="https://skillicons.dev/icons?i=java,ts,flutter" />
 
 ### 🚀 Frameworks e bibliotecas
 <img src="https://skillicons.dev/icons?i=spring,react" />
@@ -19,17 +19,8 @@ em Java, Spring, Docker e banco de dados SQL e noSQL
 ### 🛢️ DataBases
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo" />
 
-<a href="https://github.com/MuriloFelipe-S">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloFelipe-S&layout=compact&langs_count=6&theme=tokyonight"/>
-
-## ⭐ GitHub Stats
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloFelipe-S&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
-  
-  [![Murilo Felipe github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuriloFelipe-S&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-</div>
+### Skills 
+<img src="https://skillicons.dev/icons?i=arch,git,mongo" />
   
 ## Social
  Quer saber mais sobre mim ? entre em contato comigo enviando um e-mail ou me seguindo no linkedin 😊
