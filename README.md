@@ -4,11 +4,10 @@ Desenvolvedor back-end júnior focado em adquirir conhecimentos e criar soluçõ
 </p>
 
 ## Sobre mim
-Sou de londrina Párana e tenho 20 anos, comecei a estudar programação em 2023 e acabei me apaixonando pela área, e em 2024 iniciei um curso técnico de desenvolvimento de sistemas, atualmente tenho focado
-em Java, Spring, Docker e banco de dados SQL e noSQL
+Desenvolvedor Java com experiência prática em projetos full stack, conhecimento em Docker, Git, SQL, NoSQL, metodologias ágeis, design patterns e arquitetura limpa, APIs REST e SOAP, focado no aprendizado constante a fim de aprimorar minhas práticas e conhecimentos.
 
 ## Tecnologias e linguagens 💻
-<img src="https://skillicons.dev/icons?i=java,ts,flutter" />
+<img src="https://skillicons.dev/icons?i=java,tsr" />
 
 ### 🚀 Frameworks e bibliotecas
 <img src="https://skillicons.dev/icons?i=spring,react" />
