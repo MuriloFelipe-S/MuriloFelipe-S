@@ -7,7 +7,7 @@ Desenvolvedor back-end júnior focado em adquirir conhecimentos e criar soluçõ
 Desenvolvedor Java com experiência prática em projetos full stack, conhecimento em Docker, Git, SQL, NoSQL, metodologias ágeis, design patterns e arquitetura limpa, APIs REST e SOAP, focado no aprendizado constante a fim de aprimorar minhas práticas e conhecimentos.
 
 ## Tecnologias e linguagens 💻
-<img src="https://skillicons.dev/icons?i=java,tsr" />
+<img src="https://skillicons.dev/icons?i=java,js" />
 
 ### 🚀 Frameworks e bibliotecas
 <img src="https://skillicons.dev/icons?i=spring,react" />
