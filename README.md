@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0f3460&height=200&section=header&text=Murilo%20Felipe&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Engenharia%20de%20Software%20%40%20Unifil&descAlignY=58&descSize=18&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0f3460&height=200&section=header&text=Murilo%20Felipe&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Engenharia%20de%20Software&descAlignY=58&descSize=18&descColor=8b949e"/>
 
 <!-- TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%E2%98%95;Clean+Code+%7C+Clean+Architecture+%F0%9F%8F%97%EF%B8%8F)](https://git.io/typing-svg)
@@ -163,7 +163,9 @@ public class MuriloFelipe extends Developer {
  Quer saber mais sobre mim ? entre em contato comigo enviando um e-mail ou me seguindo no linkedin 😊
  
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/murilofelipe/)
+[![INSTAGRAM](https://go-skill-icons.vercel.app/api/icons?i=instagram)](https://www.instagram.com/717murilo/)
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:felipemurilo6@gmail.com)
+
 </div>
 
 ---
@@ -172,6 +174,6 @@ public class MuriloFelipe extends Developer {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1f2e,100:0d1117&height=120&section=footer&animation=fadeIn"/>
 
-<sub>⭐ Feito com dedicação por <a href="https://github.com/MuriloFelipe-S">Murilo Felipe</a> • Estudante de Engenharia de Software @Unifil</sub>
+<sub>⭐ Feito com dedicação por <a href="https://github.com/MuriloFelipe-S">Murilo Felipe</a> • Estudante de Engenharia de Software | Unifil</sub>
 
 </div>
