@@ -47,13 +47,13 @@ public class MuriloFelipe extends Developer {
 ## Tecnologias e linguagens 💻
 <img src="https://skillicons.dev/icons?i=java,js" />
 
-### 🚀 Frameworks e bibliotecas
+## 🚀 Frameworks e bibliotecas
 <img src="https://skillicons.dev/icons?i=spring,react" />
 
-### 🛠️ Ferramentas de desenvolvimento
+## 🛠️ Ferramentas de desenvolvimento
 <img src="https://skillicons.dev/icons?i=idea,vscode,postman,github,docker,git" />
 
-### 🛢️ DataBases
+## 🛢️ DataBases
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo" />
 <div align="left">
 
@@ -168,12 +168,8 @@ public class MuriloFelipe extends Developer {
 
 </div>
 
----
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1f2e,100:0d1117&height=120&section=footer&animation=fadeIn"/>
-
-<sub>⭐ Feito com dedicação por <a href="https://github.com/MuriloFelipe-S">Murilo Felipe</a> • Estudante de Engenharia de Software | Unifil</sub>
 
 </div>
