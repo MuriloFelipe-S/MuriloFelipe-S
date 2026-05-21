@@ -48,7 +48,7 @@ public class MuriloFelipe extends Developer {
 <img src="https://skillicons.dev/icons?i=java,js" />
 
 ## 🚀 Frameworks e bibliotecas
-<img src="https://skillicons.dev/icons?i=spring,react, angular" />
+<img src="https://skillicons.dev/icons?i=spring,react,angular" />
 
 ## 🛠️ Ferramentas de desenvolvimento
 <img src="https://skillicons.dev/icons?i=idea,vscode,postman,github,docker,git" />
