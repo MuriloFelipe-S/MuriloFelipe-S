@@ -22,11 +22,10 @@ public class MuriloFelipe extends Developer {
     private final String status     = "Estudando e construindo soluções 🚀";
 
     private final String[] interesses = {
-        "APIs RESTful & SOAP",
+        "APIs",
         "Arquitetura Limpa & Design Patterns",
         "Containerização com Docker",
         "Bancos de Dados Relacionais e NoSQL",
-        "Metodologias Ágeis (Scrum/Kanban)"
     };
 
     public String objetivo() {
