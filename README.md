@@ -16,22 +16,17 @@
 public class MuriloFelipe extends Developer {
 
     private final String nome       = "Murilo Felipe";
-    private final String curso      = "Engenharia de Software";
-    private final String faculdade  = "Unifil — Londrina, PR";
-    private final String foco       = "Backend Development";
-    private final String status     = "Estudando e construindo soluções 🚀";
+    private final String formacao   = "Eng. de Software (UniFil) | Téc. Dev. Sistemas (SENAI)";
+    private final String foco       = "Backend Development (Java & Go)";
+    private final String status     = "Construindo ecossistemas escaláveis e explorando Segurança 🚀";
 
     private final String[] interesses = {
-        "APIs",
-        "Arquitetura Limpa & Design Patterns",
-        "Containerização com Docker",
-        "Bancos de Dados Relacionais e NoSQL",
+        "APIs RESTful de alta performance",
+        "Microsserviços & Sistemas Distribuídos",
+        "Containerização (Docker) & DevOps",
+        "Cyber Security & Cloud Security",
+        "Transição e integração Full Stack"
     };
-
-    public String objetivo() {
-        return "Criar sistemas eficientes, escaláveis e bem estruturados, "
-             + "aplicando boas práticas de engenharia de software.";
-    }
 }
 ```
 
@@ -44,10 +39,10 @@ public class MuriloFelipe extends Developer {
 <div align="left">
 
 ## Tecnologias e linguagens 💻
-<img src="https://skillicons.dev/icons?i=java,js" />
+<img src="https://skillicons.dev/icons?i=java,go" />
 
 ## 🚀 Frameworks e bibliotecas
-<img src="https://skillicons.dev/icons?i=spring,react,angular" />
+<img src="https://skillicons.dev/icons?i=spring,hibernate,redis,kafka,rabbitmq" />
 
 ## 🛠️ Ferramentas de desenvolvimento
 <img src="https://skillicons.dev/icons?i=idea,vscode,postman,github,docker,git" />
@@ -66,65 +61,48 @@ public class MuriloFelipe extends Developer {
 <details>
 <summary><b>☕ Java & Spring Boot</b></summary>
 <br/>
-
-- Desenvolvimento de **APIs RESTful** com Spring Boot
-- Injeção de dependências e gerenciamento de **beans (IoC)**
-- Mapeamento objeto-relacional com **JPA / Hibernate**
-- Configuração e uso de **Spring Data** para repositórios
-- Tratamento de exceções com **@ControllerAdvice**
-- Desenvolvimento orientado a **Clean Architecture** e **SOLID**
-- Aplicação de **Design Patterns**: Repository, Factory, Singleton, Strategy
-
+Desenvolvimento de APIs RESTful robustas e de alta performance
+Injeção de dependências e gerenciamento de beans (IoC)
+Mapeamento objeto-relacional com JPA / Hibernate
+Configuração e uso de Spring Data para repositórios
+Tratamento global de exceções com @ControllerAdvice
+Desenvolvimento orientado a Clean Architecture e SOLID
+Aplicação de Design Patterns: Repository, Factory, Singleton, Strategy
 </details>
-
 <details>
-<summary><b>🐳 Docker & Containerização</b></summary>
+<summary><b>🐹 Golang (Go)</b></summary>
 <br/>
-
-- Criação e gestão de **Dockerfiles** para aplicações Java e Node
-- Orquestração de serviços com **Docker Compose**
-- Isolamento de ambientes de desenvolvimento e produção
-- Configuração de **redes e volumes** Docker
-- Containerização de bancos de dados (MySQL, PostgreSQL, MongoDB)
-
+Desenvolvimento de serviços backend focados em performance e concorrência
+Entendimento e uso prático de Goroutines e Channels
+Criação de APIs REST leves, eficientes e escaláveis
+Integração e construção de Microsserviços
 </details>
-
 <details>
-<summary><b>🗄️ Bancos de Dados Relacionais (SQL)</b></summary>
+<summary><b>🐳 Docker & Microsserviços</b></summary>
 <br/>
-
-- Modelagem e normalização de **esquemas relacionais**
-- Consultas avançadas com **JOINs, subqueries e agregações**
-- Criação de **índices**, procedures e triggers
-- Gerenciamento de **transações e integridade referencial**
-- Experiência prática com **MySQL** e **PostgreSQL**
-
+Criação e gestão de Dockerfiles para aplicações Java e Go
+Orquestração de múltiplos serviços e dependências com Docker Compose
+Isolamento seguro de ambientes de desenvolvimento e produção
+Configuração avançada de redes e volumes Docker
+Containerização de bancos de dados, servidores de cache e mensageria
 </details>
-
 <details>
-<summary><b>📦 Bancos de Dados NoSQL</b></summary>
+<summary><b>🗄️ Bancos de Dados & Cache</b></summary>
 <br/>
-
-- Modelagem orientada a **documentos** com MongoDB
-- Operações CRUD com **MongoDB Compass e Mongo Shell**
-- Integração com Spring Boot via **Spring Data MongoDB**
-- Compreensão das diferenças entre **dados estruturados e não estruturados**
-- Casos de uso e decisões entre **SQL vs NoSQL**
-
+Relacionais (MySQL, PostgreSQL): Modelagem de esquemas, normalização, consultas complexas (JOINs, agregações), criação de índices e gerenciamento de transações.
+NoSQL (MongoDB): Modelagem orientada a documentos, operações via Mongo Shell e Compass.
+Cache (Redis): Noções de estratégias de cache para otimização de performance e alívio de carga em APIs.
+Integração fluida de múltiplos bancos com aplicações backend via Spring Data.
+Visão crítica para decisões arquiteturais: quando usar SQL vs NoSQL.
 </details>
-
 <details>
-<summary><b>⚛️ JavaScript & React</b></summary>
+<summary><b>🔒 Segurança & Arquitetura (Em desenvolvimento)</b></summary>
 <br/>
-
-- Fundamentos sólidos de **ES6+**: arrow functions, destructuring, async/await
-- Criação de componentes funcionais com **React Hooks**
-- Consumo de **APIs REST** com Fetch/Axios
-- Gerenciamento de estado com **useState e useEffect**
-- Noções de **componentização e reutilização** de UI
-
+Estudos contínuos focados em Cyber Security e Cloud Security
+Boas práticas para proteção de APIs, controle de acesso e autenticação
+Construção de bases sólidas em Secure by Design (Segurança desde a concepção)
+Fundamentos de comunicação assíncrona e Mensageria (Kafka/RabbitMQ)
 </details>
-
 ---
 
 
@@ -142,13 +120,13 @@ public class MuriloFelipe extends Developer {
 ```
 2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2025+
 
-[✅] Java Core & OOP              [✅] Spring Boot
-[✅] SQL (MySQL / PostgreSQL)     [✅] NoSQL (MongoDB)
-[✅] Docker & Containers          [✅] APIs REST
-[✅] Git & GitHub                 [✅] React (frontend)
-[🔄] Testes Unitários (JUnit)    [🔄] Microsserviços
-[⏳] Kubernetes                   [⏳] CI/CD Pipelines
-[⏳] Cloud (AWS/GCP)              [⏳] Kafka / RabbitMQ
+[✅] Java Core & OOP              [✅] Spring Boot & Hibernate
+[✅] SQL (MySQL / PostgreSQL)     [✅] Docker & Containers
+[✅] APIs REST & Integrações      [✅] Git & GitHub
+[🔄] Microsserviços               [🔄] Golang (Go)
+[🔄] Testes (JUnit/Mockito)       [🔄] Redis (Cache)
+[⏳] Cyber & Cloud Security       [⏳] CI/CD Pipelines
+[⏳] Mensageria (Kafka/RabbitMQ)  [⏳] Kubernetes
 ```
 
 > ✅ Concluído &nbsp;&nbsp; 🔄 Em progresso &nbsp;&nbsp; ⏳ Próximos passos
