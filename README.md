@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0f3460&height=200&section=header&text=Murilo%20Felipe&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Engenharia%20de%20Software&descAlignY=58&descSize=18&descColor=8b949e"/>
 
 <!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%E2%98%95;Clean+Code+%7C+Clean+Architecture+%F0%9F%8F%97%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Cyber+Security+%F0%9F%AB%86;Java+%7C+Spring+Boot+%E2%98%95;Clean+Code+%7C+Clean+Architecture+%F0%9F%8F%97%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,7 +17,7 @@ public class MuriloFelipe extends Developer {
 
     private final String nome       = "Murilo Felipe";
     private final String formacao   = "Eng. de Software (UniFil) | Téc. Dev. Sistemas (SENAI)";
-    private final String foco       = "Backend Development (Java & Go)";
+    private final String foco       = "Backend Development (Java & Go) | Cyber Security";
     private final String status     = "Construindo ecossistemas escaláveis e explorando Segurança 🚀";
 
     private final String[] interesses = {
