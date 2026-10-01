@@ -140,7 +140,6 @@ Fundamentos de comunicação assíncrona e Mensageria (Kafka/RabbitMQ)
  Quer saber mais sobre mim ? entre em contato comigo enviando um e-mail ou me seguindo no linkedin 😊
  
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/murilofelipe/)
-[![INSTAGRAM](https://go-skill-icons.vercel.app/api/icons?i=instagram)](https://www.instagram.com/717murilo/)
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:felipemurilo6@gmail.com)
 
 </div>
